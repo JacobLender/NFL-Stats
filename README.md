@@ -10,4 +10,4 @@ Welcome to the NFL Stats Data Visualization project! This respository houses a P
 
 
 ## Contact
-For questions or feedback, contact [Jake Lender](https://github.com/JacobLender)
+For questions or feedback, contact [Jake Lender](https://github.com/JacobLender).
