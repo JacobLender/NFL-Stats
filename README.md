@@ -1,7 +1,7 @@
 # NFL-Stats
 Welcome to the NFL Passer Stats Data Visualization project! This respository houses a couple Python scripts that retrieves up-to-date NFL statistics for quarterbacks from ESPN's website. The collected data is then seamlessly integrated into a Tableau dashboard for insightful visualization and analysis.
 
-![Power BI NFL Dashboard](DashboardPhotoForReadMe.png)
+![Power BI NFL Dashboard](Image 1-6-24 at 11.31 AM.jpeg)
 
 
 ## Table of Contents
