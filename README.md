@@ -1,7 +1,7 @@
 # NFL-Stats
 Welcome to the NFL Stats Analysis Data Visualization project! This respository houses a couple Python scripts that retrieves up-to-date NFL statistics for players from ESPN's website. The collected data is then seamlessly integrated into a Tableau dashboard for insightful visualization and analysis.
 
-![Tableau Passer Analysis Dashboard](GithubPasser.jpeg)
+![Tableau Passer Analysis Dashboard](GithubDash.jpeg)
 
 
 ## Table of Contents
